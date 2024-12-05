@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "N2OavlVxnIgDQgkPmmb0Soc7xHy76Zsh4ssRwg1j7qw=",
+  "Source": "Backend-endpoint",
+  "BasePath": "_content/Backend-endpoint",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
